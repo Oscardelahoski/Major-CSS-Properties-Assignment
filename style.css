@@ -1,0 +1,49 @@
+body{
+    width: 800px;
+    margin: auto;
+    
+
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.first-section {
+    color: green;
+    font-style: italic;
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    
+    
+}
+
+.second-section {
+    color: red;
+    font-style: italic;
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.third-section {
+    color: blue;
+    font-style: italic;
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 14px;
+    
+}
+
+.paragraph-head {
+    text-align: center;
+}
